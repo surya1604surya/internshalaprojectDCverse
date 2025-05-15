@@ -1,0 +1,11 @@
+part2
+1.If this was a real SaaS tool, what 2 features would you prioritize next and why?
+answer:If I convert this into a SaaS tool, then:
+-I will create user management.
+-I will store user avatars separately, linked to their credentials."
+
+
+2.What was one challenge you faced in this task, and how did you solve or approach it?
+answer:"The main challenge I faced was linking APIs and making the page dynamic."
+
+
